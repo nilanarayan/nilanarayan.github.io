@@ -90,7 +90,7 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus, a:active {
-	color: #FF0077;
+	color: #014c00;
 	outline: 0;
 }
 
@@ -309,7 +309,7 @@ ul.disc li::before {
 }
 dt {
 	margin: 0;
-	color: #FF0077;
+	color: #014c00;
 }
 dd {
 	margin: 0 0 0 2rem;
@@ -429,7 +429,7 @@ img.pull-left {
 	display: none;
 }
 .pace .pace-progress {
-	background: #FF0077;
+	background: #014c00;
 	position: fixed;
 	z-index: 900;
 	top: 0;
@@ -594,8 +594,8 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-	color: #cc005f;
-	border-bottom: 1px solid #FF0077;
+	color: #014c00;
+	border-bottom: 1px solid #026d00;
 }
 label, legend {
 	font-family: "poppins-bold", sans-serif;
@@ -736,8 +736,8 @@ button.stroke.large, .button.stroke.large {
 	line-height: 5.4rem !important;
 }
 button.stroke:hover, .button.stroke:hover {
-	border: 3px solid #FF0077;
-	color: #FF0077;
+	border: 3px solid #014c00;
+	color: #014c00;
 }
 button::-moz-focus-inner, input::-moz-focus-inner {
 	border: 0;
